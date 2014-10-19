@@ -1,0 +1,9 @@
+.Hero{
+    background: url('../images/boat.jpg') no-repeat fixed center;
+    background-size: cover;
+    height: 800px;
+}
+
+.IntroParagraph {
+    background-color: clear;
+}
